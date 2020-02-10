@@ -1,12 +1,6 @@
 node_modules/
+package-lock.json
+.idea/
 
-readme.md
 
-package.json
-
-LICENSE.txt
-
-.gitignore
-
-app.js
 

@@ -1,5 +1,9 @@
+:root {
+  --color-green: #00a68b;
+  --color-purple: #65006d;
+  --color-yellow: #ffd30a;
+}
 body {
-    background: yellow;
-    color: green;
+
 }
 
